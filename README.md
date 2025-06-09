@@ -41,6 +41,6 @@ Sinta-se à vontade para entrar em contato ou se conectar:
 
 📧 Email: vitoralcan5@email.com
 
-💼 LinkedIn: linkedin.com/in/VitorAla
+💼 LinkedIn: https://www.linkedin.com/in/vitor-alcantara-022438353/
 
-💻 GitHub: github.com/ArturAlcantara
+💻 GitHub: https://github.com/VitorAlcantara-tech

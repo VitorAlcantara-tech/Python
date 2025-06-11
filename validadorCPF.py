@@ -9,7 +9,7 @@ while True:
         continue
 
     p1 = sum(int(cpfNumeros[i]) * (10 - i) for i in range(9))
-    #sum (soma) i in range(0, 8)
+    #sum (soma) i in range(0, 9)
 
     p2 = p1 * 10
     validacacao1 = p2 % 11
